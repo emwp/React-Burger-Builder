@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Layout from './hoc/Layout/Layout';
 import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';
 // import Aux from './hoc/Aux';
+import Checkout from './containers/Checkout/Checkout';
 
 class App extends Component {
   render() {
@@ -9,6 +10,7 @@ class App extends Component {
       <React.Fragment>
         <Layout>
           <BurgerBuilder />
+          <Checkout />
         </Layout>
       </React.Fragment>
     );
