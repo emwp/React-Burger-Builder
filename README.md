@@ -1,6 +1,7 @@
 # React Burger Builder
 
-Check it out: reactburgerbuilder.netlify.com
+Check it out: [React Burger Builder](https://reactburgerbuilder.netlify.com "React Burger Builder")
+
 
 This project is part of a React course.
 
